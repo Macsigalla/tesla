@@ -19,7 +19,7 @@ git init
 
 Link your local repository to the GitHub repository you created by adding the remote URL. You can obtain the remote URL from your GitHub repository page.
 
-git remote add origin <remote_url>
+git remote add (any alias name of your choice) <remote_url>
 
 Replace <remote_url> with the URL of your GitHub repository.
 
